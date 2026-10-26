@@ -1,0 +1,752 @@
+[
+  {
+    "sn": 1,
+    "prevDate": "12/10/2026",
+    "court": "DJ",
+    "caseNo": "166/26",
+    "party": "STATE V/S MUKUT GOCHER (DHARMENDRA MEENA)",
+    "section": "103(1)",
+    "stage": "CHARGE",
+    "nextDate": ""
+  },
+  {
+    "sn": 2,
+    "prevDate": "17/10/2026",
+    "court": "DJ",
+    "caseNo": "-",
+    "party": "DHARMENDRA MEENA V/S STATE",
+    "section": "483",
+    "stage": "BAHAS",
+    "nextDate": ""
+  },
+  {
+    "sn": 3,
+    "prevDate": "23/9/2026",
+    "court": "ADJ-1",
+    "caseNo": "-",
+    "party": "STATE V/S YOGESH (SAMEER URF ICCHI)",
+    "section": "308",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 4,
+    "prevDate": "19/9/2026",
+    "court": "ADJ-1",
+    "caseNo": "-",
+    "party": "KAMALI BAI V/S STATE (SIRAJ)",
+    "section": "-",
+    "stage": "APEAL",
+    "nextDate": ""
+  },
+  {
+    "sn": 5,
+    "prevDate": "17/8/2026",
+    "court": "ADJ-1",
+    "caseNo": "-",
+    "party": "SHAHIL URF KERI V/S STATE",
+    "section": "-",
+    "stage": "APEAL",
+    "nextDate": ""
+  },
+  {
+    "sn": 6,
+    "prevDate": "3/10/2026",
+    "court": "ADJ-1",
+    "caseNo": "-",
+    "party": "STATE V/S DEEPAK PRAJAPATI (AMAN URF LALA)",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 7,
+    "prevDate": "9/10/2026",
+    "court": "ADJ-1",
+    "caseNo": "150/23",
+    "party": "STATE V/S JUBER URF JUBBI",
+    "section": "3/25(6)",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 8,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-1",
+    "caseNo": "-",
+    "party": "STATE V/S ADNAAN VASIM",
+    "section": "302",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 9,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-1",
+    "caseNo": "173/26",
+    "party": "STATE V/S KAJU URF AJAUDDIN",
+    "section": "140(1)",
+    "stage": "CHARGE",
+    "nextDate": ""
+  },
+  {
+    "sn": 10,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-1",
+    "caseNo": "55/26",
+    "party": "STATE (COMP) V/S ILMUDDIN URF CHANDI ETC,",
+    "section": "302",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 11,
+    "prevDate": "8/9/2026",
+    "court": "ADJ-2",
+    "caseNo": "72/26",
+    "party": "STATE V/S SHAHID URF KALIYA",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 12,
+    "prevDate": "10/9/2026",
+    "court": "ADJ-3",
+    "caseNo": "-",
+    "party": "STATE V/S SONU HADDI ARHSAD",
+    "section": "302",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 13,
+    "prevDate": "11/9/2026",
+    "court": "ADJ-3",
+    "caseNo": "-",
+    "party": "STATE V/S SHAHADT URF BAHYYU (SHAHJAD)",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 14,
+    "prevDate": "16/9/2026",
+    "court": "ADJ-3",
+    "caseNo": "307/23",
+    "party": "STATE V/S SHOHAIL KHAN HOSIM KEKD A",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 15,
+    "prevDate": "5/10/2026",
+    "court": "ADJ-3",
+    "caseNo": "-",
+    "party": "MADAN MOHAN V/S STATE",
+    "section": "-",
+    "stage": "APEAL",
+    "nextDate": ""
+  },
+  {
+    "sn": 16,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-3",
+    "caseNo": "-",
+    "party": "STATE V/S AJAY TUFFAN SINGH",
+    "section": "302",
+    "stage": "BAHAS",
+    "nextDate": ""
+  },
+  {
+    "sn": 17,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-3",
+    "caseNo": "-",
+    "party": "STATE V/S VISHAL (DEELIP CHANDA GUJJAR)",
+    "section": "302",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 18,
+    "prevDate": "7/9/2026",
+    "court": "ADJ-4",
+    "caseNo": "-",
+    "party": "STATE V/S SHOKIN ETC.",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 19,
+    "prevDate": "9/10/2026",
+    "court": "ADJ-4",
+    "caseNo": "-",
+    "party": "STATE V/S MANISH URF BADMASH SAMEER URF GANJA",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 20,
+    "prevDate": "13/10/2026",
+    "court": "ADJ-5",
+    "caseNo": "364/24",
+    "party": "STATE V/S SHOYAB SHAHJAD SALMAAN",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 21,
+    "prevDate": "2/9/2026",
+    "court": "ADJ-6",
+    "caseNo": "-",
+    "party": "AARIF URF PANDU V/S STATE",
+    "section": "-",
+    "stage": "APEAL",
+    "nextDate": ""
+  },
+  {
+    "sn": 22,
+    "prevDate": "15/9/2026",
+    "court": "ADJ-6",
+    "caseNo": "232/22",
+    "party": "STATE V/S SUNIL PANCHAL (SONU URF TOSIF VIAJY URF KALLU SAMEER URF CHILLI)",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 23,
+    "prevDate": "16/9/2026",
+    "court": "ADJ-6",
+    "caseNo": "-",
+    "party": "STATE V/S AJRUDDIN URF AJJU",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 24,
+    "prevDate": "30/9/2026",
+    "court": "ADJ-6",
+    "caseNo": "-",
+    "party": "STATE V/S ILMUDDIN (VINOD CAMMANDO)",
+    "section": "399, 402",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 25,
+    "prevDate": "6/10/2026",
+    "court": "ADJ-6",
+    "caseNo": "-",
+    "party": "STATE V/S BUNTY URF AARIF DINESH",
+    "section": "384",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 26,
+    "prevDate": "12/10/2026",
+    "court": "ADJ-6",
+    "caseNo": "430/24",
+    "party": "STATE V/S IMRAN DANISH ASLAAM",
+    "section": "384",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 27,
+    "prevDate": "17/10/2026",
+    "court": "ADJ-6",
+    "caseNo": "244/26",
+    "party": "RAJENDRA URF RAJU V/S STATE",
+    "section": "483",
+    "stage": "BAHAS",
+    "nextDate": ""
+  },
+  {
+    "sn": 28,
+    "prevDate": "17/10/2026",
+    "court": "ADJ-6",
+    "caseNo": "28/26",
+    "party": "STATE V/S FEZAN",
+    "section": "3/25",
+    "stage": "CHARGE",
+    "nextDate": ""
+  },
+  {
+    "sn": 29,
+    "prevDate": "15/10/2026",
+    "court": "POCSO-3",
+    "caseNo": "-",
+    "party": "STATE V/S DHARMENDRA SINGH OOD",
+    "section": "376",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 30,
+    "prevDate": "7/10/2026",
+    "court": "POCSO-4",
+    "caseNo": "-",
+    "party": "STATE V/S AAYUSH CHOUDHARY",
+    "section": "376",
+    "stage": "DECISION",
+    "nextDate": ""
+  },
+  {
+    "sn": 31,
+    "prevDate": "13/10/2026",
+    "court": "POCSO-4",
+    "caseNo": "-",
+    "party": "AARSHIYAAN URF HASAN V/S STATE",
+    "section": "101",
+    "stage": "APEAL",
+    "nextDate": ""
+  },
+  {
+    "sn": 32,
+    "prevDate": "15/10/2026",
+    "court": "POCSO-4",
+    "caseNo": "-",
+    "party": "STATE V/S DINU KALIYA",
+    "section": "376",
+    "stage": "BAYAN MULJIM",
+    "nextDate": ""
+  },
+  {
+    "sn": 33,
+    "prevDate": "19/6/2026",
+    "court": "SC/ST",
+    "caseNo": "21/23",
+    "party": "STATE V/S CHIRAG (SHAHRUKH URF CHAND MOHD.)",
+    "section": "307",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 34,
+    "prevDate": "5/10/2026",
+    "court": "SC/ST",
+    "caseNo": "-",
+    "party": "STATE V/S AABID MOHD.",
+    "section": "109(1)",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 35,
+    "prevDate": "31/7/2026",
+    "court": "NDPS",
+    "caseNo": "118/25",
+    "party": "STATE V/S ABDUL HAMID DEVA",
+    "section": "8/20",
+    "stage": "CHARGE",
+    "nextDate": ""
+  },
+  {
+    "sn": 36,
+    "prevDate": "14/8/2026",
+    "court": "NDPS",
+    "caseNo": "47/22",
+    "party": "STATE V/S KANHIYALAL (MAJOOR ALI)",
+    "section": "8/20",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 37,
+    "prevDate": "14/8/2026",
+    "court": "NDPS",
+    "caseNo": "30/26",
+    "party": "STATE V/S ABDUL RASHID ALTAMAS ETC.",
+    "section": "8/20",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 38,
+    "prevDate": "7/9/2026",
+    "court": "NDPS",
+    "caseNo": "344/23",
+    "party": "STATE V/S SATTU RAM",
+    "section": "8/20",
+    "stage": "RP",
+    "nextDate": ""
+  },
+  {
+    "sn": 39,
+    "prevDate": "13/10/2026",
+    "court": "W.A.-2",
+    "caseNo": "-",
+    "party": "STATE V/S AMAN URF LALA (AAJAM SHOHAIL FEZAN)",
+    "section": "399, 402",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 40,
+    "prevDate": "8/10/2026",
+    "court": "CJM",
+    "caseNo": "-",
+    "party": "VIMAL V/S ROHIT",
+    "section": "420",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 41,
+    "prevDate": "12/10/2026",
+    "court": "ACJM-1",
+    "caseNo": "243/26",
+    "party": "STATE V/S RAMAN SINGH CHOUHAN",
+    "section": "109(1)",
+    "stage": "RP",
+    "nextDate": ""
+  },
+  {
+    "sn": 42,
+    "prevDate": "8/9/2026",
+    "court": "ACJM-2",
+    "caseNo": "-",
+    "party": "STATE V/S TALIM AJHAR SHOKIN ROBIN",
+    "section": "420",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 43,
+    "prevDate": "13/10/2026",
+    "court": "ACJM-3",
+    "caseNo": "6774/16",
+    "party": "STATE V/S MANISH URF BHOLA NAVEEN URF OBAMA",
+    "section": "392",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 44,
+    "prevDate": "6/7/2026",
+    "court": "ACJM-3",
+    "caseNo": "1190/23",
+    "party": "STATE V/S VISHAL",
+    "section": "380",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 45,
+    "prevDate": "28/7/2026",
+    "court": "ACJM-3",
+    "caseNo": "98/25",
+    "party": "STATE V/S AJAY",
+    "section": "4/25",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 46,
+    "prevDate": "14/10/2026",
+    "court": "ACJM-4",
+    "caseNo": "24/25",
+    "party": "STATE V/S RAHIL MODI ETC.",
+    "section": "318(4)",
+    "stage": "CHARGE",
+    "nextDate": ""
+  },
+  {
+    "sn": 47,
+    "prevDate": "12/10/2026",
+    "court": "ACJM-5",
+    "caseNo": "343/24",
+    "party": "STATE V/S ASLAAM SHERKHAN DANISH",
+    "section": "384",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 48,
+    "prevDate": "4/6/2026",
+    "court": "M(N)",
+    "caseNo": "-",
+    "party": "STATE V/S MANOJ KUMAR SUMAN",
+    "section": "279",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 49,
+    "prevDate": "9/10/2026",
+    "court": "2(N)",
+    "caseNo": "-",
+    "party": "STATE V/S LOVISH KHAN",
+    "section": "4/25",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 50,
+    "prevDate": "3/10/2026",
+    "court": "2(N)",
+    "caseNo": "-",
+    "party": "STATE V/S AFJAAL",
+    "section": "4/25",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 51,
+    "prevDate": "21/7/2026",
+    "court": "2(N)",
+    "caseNo": "941/24",
+    "party": "STATE V/S JAHID URF NOORA",
+    "section": "4/25",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 52,
+    "prevDate": "1/8/2026",
+    "court": "2(N)",
+    "caseNo": "3872/22",
+    "party": "STATE V/S SHOYAL URF SHANU BACCHA",
+    "section": "392",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 53,
+    "prevDate": "18/9/2026",
+    "court": "3(N)",
+    "caseNo": "75/26",
+    "party": "STATE V/S JAVED BEG",
+    "section": "498",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 54,
+    "prevDate": "10/7/2026",
+    "court": "4(N)",
+    "caseNo": "166/24",
+    "party": "STATE V/S SAWAN (LAXMAN SINGH)",
+    "section": "323",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 55,
+    "prevDate": "14/8/2026",
+    "court": "4(N)",
+    "caseNo": "-",
+    "party": "STATE V/S PAPPU (TALAB GAAV)",
+    "section": "379",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 56,
+    "prevDate": "13/10/2026",
+    "court": "2(S)",
+    "caseNo": "244/26",
+    "party": "STATE V/S RAJENDRA URF RAJU",
+    "section": "4/5",
+    "stage": "RP",
+    "nextDate": ""
+  },
+  {
+    "sn": 57,
+    "prevDate": "17/9/2026",
+    "court": "5(S)",
+    "caseNo": "-",
+    "party": "STATE V/S REHANUDDIN",
+    "section": "19/54",
+    "stage": "RP",
+    "nextDate": ""
+  },
+  {
+    "sn": 58,
+    "prevDate": "24/8/2026",
+    "court": "5(S)",
+    "caseNo": "12971/23",
+    "party": "STATE V/S HASRUDDIN EZAZ NOSHAD",
+    "section": "323",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 59,
+    "prevDate": "3/9/2026",
+    "court": "5(S)",
+    "caseNo": "369/24",
+    "party": "STATE V/S MOHIT MEENA",
+    "section": "4/25",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 60,
+    "prevDate": "6/10/2026",
+    "court": "5(S)",
+    "caseNo": "-",
+    "party": "ASHOK NAGAR V/S MEENA NAGAR",
+    "section": "-",
+    "stage": "ISTAGASA",
+    "nextDate": ""
+  },
+  {
+    "sn": 61,
+    "prevDate": "29/8/2026",
+    "court": "PCPNDT",
+    "caseNo": "-",
+    "party": "STATE V/S RAJA",
+    "section": "4/25",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 62,
+    "prevDate": "13/10/2026",
+    "court": "PCPNDT",
+    "caseNo": "50/21",
+    "party": "STATE V/S SHADIK URF JAYAD",
+    "section": "380",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 63,
+    "prevDate": "13/10/2026",
+    "court": "PCPNDT",
+    "caseNo": "-",
+    "party": "STATE V/S SHADIK URF JAYAD",
+    "section": "379",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 64,
+    "prevDate": "10/8/2026",
+    "court": "PCPNDT",
+    "caseNo": "-",
+    "party": "STATE V/S ARBAAZ",
+    "section": "19/54",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 65,
+    "prevDate": "17/10/2026",
+    "court": "NI-1",
+    "caseNo": "-",
+    "party": "AABID ALI V/S SHAKIL",
+    "section": "138",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 66,
+    "prevDate": "3/9/2026",
+    "court": "NI-2",
+    "caseNo": "-",
+    "party": "ABDUL MALIK V/S SHAMIM",
+    "section": "138",
+    "stage": "BAHAS",
+    "nextDate": ""
+  },
+  {
+    "sn": 67,
+    "prevDate": "15/9/2026",
+    "court": "NI-2",
+    "caseNo": "-",
+    "party": "ABDUL VAHID V/S MOHD. AJHAR",
+    "section": "138",
+    "stage": "TALBI",
+    "nextDate": ""
+  },
+  {
+    "sn": 68,
+    "prevDate": "31/7/2026",
+    "court": "NI-4",
+    "caseNo": "-",
+    "party": "SHIVNATH V/S BHAVNEET",
+    "section": "138",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 69,
+    "prevDate": "31/7/2026",
+    "court": "NI-4",
+    "caseNo": "-",
+    "party": "SHIVNATH V/S BHAVNEET",
+    "section": "138",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 70,
+    "prevDate": "9/9/2026",
+    "court": "NI-4",
+    "caseNo": "-",
+    "party": "RAM GOPAL V/S MUKESH NAGAR",
+    "section": "138",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 71,
+    "prevDate": "13/10/2026",
+    "court": "NI-4",
+    "caseNo": "51419/19",
+    "party": "SANJAY V/S KAPIL GAUTAM",
+    "section": "138",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 72,
+    "prevDate": "17/10/2026",
+    "court": "F.C.-2",
+    "caseNo": "165/25",
+    "party": "PRIYANKA V/S RAVINDRA SINGH",
+    "section": "-",
+    "stage": "TALAK",
+    "nextDate": ""
+  },
+  {
+    "sn": 73,
+    "prevDate": "3/9/2026",
+    "court": "F.C.-3",
+    "caseNo": "-",
+    "party": "RUKSAAR V/S IMRAN HUSSAIN",
+    "section": "144",
+    "stage": "EVE",
+    "nextDate": ""
+  },
+  {
+    "sn": 74,
+    "prevDate": "8/9/2026",
+    "court": "MACT-1",
+    "caseNo": "-",
+    "party": "VINOD KUMAR V/S TUFFEL AHMAD PARVAAZ",
+    "section": "-",
+    "stage": "CLAIM",
+    "nextDate": ""
+  },
+  {
+    "sn": 75,
+    "prevDate": "-",
+    "court": "ADM",
+    "caseNo": "-",
+    "party": "STATE V/S MURARI GUPTA",
+    "section": "-",
+    "stage": "-",
+    "nextDate": ""
+  }
+]
